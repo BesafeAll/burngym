@@ -1,0 +1,23 @@
+# Ignore dependency source zips
+Source/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Node (in case you later add tooling)
+node_modules/
+
+# Mac system files
+.AppleDouble
+.LSOverride
+
+# Windows system files
+Desktop.ini
